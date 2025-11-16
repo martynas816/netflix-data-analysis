@@ -1,4 +1,4 @@
-Netflix Content Analysis
+Netflix Content Analysis (Beginner Data Project)
 
 This project analyzes the Netflix catalog dataset using Python and Pandas.
 
@@ -11,3 +11,10 @@ Insights
 1. Movies make up the majority of Netflix content.
 2. Dramas and Documentaries are the strongest categories.
 3. Content production exploded after 2010, peaking around 2018–2020.
+
+   
+Tools Used
+- Python
+- Pandas
+- Matplotlib / Seaborn
+- Kaggle Notebook Environment
